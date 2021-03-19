@@ -1,0 +1,206 @@
+html 
+{
+                  background: url("Imagenes/corazon.gif") no-repeat center center fixed; 
+     -webkit-background-size: cover;
+        -moz-background-size: cover;
+          -o-background-size: cover;
+         -ms-background-size: cover;
+             background-size: cover;
+}
+
+p 
+{
+    	background: #ffc2cd;
+             color: #bd00ff;
+   background-size: cover;
+	        border: 4px solid #ff084a;
+        text-align: center;
+              font: bold 18px sans-serif;
+
+}
+
+a{
+		background: #ff6289;
+             color: white;
+   background-size: cover;
+	        border: 4px solid yellow;
+        text-align: center;
+              font: bold 18px sans-serif;
+
+}
+
+h1
+{
+	font-size: 25px ;
+	font-family: monospace;
+	font-weight: bold;
+    color:  yellow;
+    text-align: center;
+
+}
+
+h2
+{
+    	  font: bold 30px sans-serif;
+	     color: black;
+    text-align: center;
+}
+
+h3
+{
+	font: bold 19px sans-serif;
+	     color: #701345;
+    text-align: center;
+
+}
+
+footer{
+	      font: bold 19px sans-serif;
+	     color: black;
+    text-align: center;
+}
+
+span
+{
+      font: bold 17px sans-serif;
+	 color: #a70000;
+}
+
+small
+{
+	 font: bold 17px sans-serif;
+	 color: black;
+}
+
+cite
+{
+	font: bold 17px sans-serif;
+   color: #001eff;
+}
+
+header, section, footer, aside, nav, article, hgroup
+{
+   isplay: block;
+}
+
+body 
+{
+	text-align: center;
+}
+
+
+
+
+.agrupar
+{
+	     width: 960px ;
+	    border: 4px solid #c51f5d;
+	    margin: 10px auto;
+	background: 	#fdb5af;
+}
+
+.cabecera 
+{
+  	    border: 5px solid 	#ff34b3;
+	   padding: 20px;
+	background: url("Imagenes/amor2.gif ") left top repeat-y,
+	            hsl(0, 0%, 0%) url("Imagenes/amor2.gif") right top repeat-y;
+       padding: 0 0px;
+}
+
+.cabecera
+{
+	text-align: left;
+}
+
+.menu
+{
+	background: #a46269;
+	   padding: 5px 15px;
+	text-align: left;
+    	border: 4px solid #ff34b3;
+}
+
+.menu li
+{
+   list-style: none;
+      padding: 5px;
+         font: bold 16px verdana;
+       border: 4px solid #f55363;
+	  display: inline-block;
+    	color: #060281;
+    	background: #3efaa9;
+}
+
+
+
+article
+{
+               background: url("Imagenes/petalo.gif")no-repeat center center fixed; 
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+      -ms-background-size: cover;
+          background-size: cover;
+	
+	       border: 4px solid #fe6bdf;
+	      padding: 20px;
+	margin-bottom: 60px;
+
+}
+
+time
+{
+	color: 	#011f4b;
+	 font: bold 17px sans-serif;
+}
+
+article footer
+{
+	text-align: right;
+	margin-top: 20px ;
+}
+
+
+
+.seccion
+{
+   margin:  20px;
+	width: 600px;
+    float: left;
+}
+
+.aside
+{
+   margin:  20px 0;
+	width: 300px;
+    float: left;
+	
+}
+
+.aside blockquote
+{
+	    border: 3px dashed ;
+	   padding: 10px;
+	background: #fe6bdf  ;
+	     color: #b8617d;
+	      font: bold 17px sans-serif;
+}
+
+
+.pie
+{
+	     clear: both;
+   	   padding: 20px;
+	background: #4b3d2a;
+	     color: white;
+}
+
+
+
+img
+{
+	  width: 200px;
+	display: block;
+  	 margin: 20px auto;
+}
